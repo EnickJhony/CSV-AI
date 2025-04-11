@@ -1,0 +1,43 @@
+"idemail","nmsubject","nrserveremail","txschedule","nmmetodo","bolativo","tmultimaexecucao"
+32,Movimentações acumuladas,smtp.gmail.com,"0 30 * * * *","32",false,2022-03-17 11:30:07.363
+7,Faltas Plano 13WK,smtp.gmail.com,"0 05 0 * * 1-5","7",false,2021-06-24 01:06:06.691
+6,Resultado Contagem Ciclica Classe A,smtp.gmail.com,"0 50 6 * * 1-5","6",false,2020-08-05 06:45:05.292
+9,Exportar apontamento automatico,smtp.gmail.com,"0 00 * * * 1-6","9",false,2024-01-19 02:03:04.612
+38,Evolucao Estoque,smtp.gmail.com,"0 55 6 * * 1","38",true,2025-04-07 06:59:28.508
+14,Exportar Top Ofensores,smtp.gmail.com,"0 24 6 * * 1-5","14",false,2024-11-19 09:05:59.899
+40,Placas acumulando no teste,smtp.gmail.com,"0 00 13/8 * * *","40",true,2025-04-07 21:00:06.039
+39,Manutenções para evitar futuras faltas,smtp.gmail.com,"0 55 6 * * 1","39",true,2025-04-07 07:18:50.532
+19,Divergencia Titularidade,smtp.gmail.com,"0 10 6 * * 1-6","19",true,2025-04-08 06:21:55.156
+1,Divergencias nas Transações de Materiais,smtp.gmail.com,"0 20 6 * * *","1",false,2024-11-19 08:48:47.180
+41,Pendencias Almoxarifado,smtp.gmail.com,"0 20 6 * * *","41",true,2025-04-08 06:22:25.055
+2,Divergencias de saldos LN x SFCS,smtp.gmail.com,"0 20 6 * * 1-5","2",false,2024-11-01 06:47:32.616
+22,Controle de estoque Minimo / Maximo,smtp.gmail.com,"0 20 6 * * 1-6","22",true,2025-04-08 06:22:28.251
+42,Itens pendentes de criar MOQ,smtp.gmail.com,"0 20 6 * * *","42",true,2025-04-08 06:22:30.401
+5,Analise Dados Tecnicos dos Componentes,smtp.gmail.com,"0 22 6 * * 1-5","5",true,2025-04-08 06:22:40.543
+25,Materiais em devolução,smtp.gmail.com,"0 22 6 * * 1-5","25",true,2025-04-08 06:22:43.553
+37,Estoque Inativo,smtp.gmail.com,"0 22 6 * * 1-5","37",true,2025-04-08 06:22:49.562
+17,Gráfico Validade Materiais,smtp.gmail.com,"0 22 6 * * 1-5","17",true,2025-04-08 06:23:01.975
+35,Materiais MSD em exposicao,smtp.gmail.com,"0 22 6 * * 1-5","35",true,2025-04-08 06:23:04.598
+12,Npis pendentes de aprovacao,smtp.gmail.com,"0 24 6 * * 1-5","12",true,2025-04-08 06:24:06.050
+29,Plano de ação - verificação de eficacia pendente,smtp.gmail.com,"0 24 6 * * 1-5","29",true,2025-04-08 06:24:08.255
+20,Placas Vendidas para Engenharia,smtp.gmail.com,"0 0/5 * * * 1-6","20",false,
+99,Squegee vencimento,smtp.gmail.com,"","99",false,
+18,Time Sucesso NPI,smtp.gmail.com,"0 28 6 * * 1-5","18",false,
+15,Exportar Down Time,smtp.gmail.com,"0 24 6 * * 1-5","15",true,2025-04-08 06:24:08.321
+13,Relatorio de Perdas sem Ação de Contenção,smtp.gmail.com,"0 24 6 * * 1-5","13",false,2024-11-19 09:05:59.618
+10,Excedentes do Plano 26WK,smtp.gmail.com,"0 30 3 * * 1-7","10",true,2025-04-05 05:27:23.692
+36,Estoque por Tempo,smtp.gmail.com,"0 00 5 * * 1-7","36",true,2025-04-05 06:47:06.785
+28,Plano de ação - Ações em aberto,smtp.gmail.com,"0 26 6 * * 1-5","28",true,2025-04-08 06:26:02.410
+26,Materiais em Kit,smtp.gmail.com,"0 26 6 * * 1-5","26",true,2025-04-08 06:26:05.790
+27,Plano de ação - Ações atrasadas,smtp.gmail.com,"0 26 6 * * 1-5","27",true,2025-04-08 06:26:07.926
+30,Materiais excedentes no WIP,smtp.gmail.com,"0 26 6 * * 1-5","30",true,2025-04-08 06:26:14.018
+8,Divergencias entre MPQ x MOQ,smtp.gmail.com,"0 55 6 * * 2-6","8",true,2025-04-05 07:06:17.594
+11,Comparativo Demanda Lenovo x Planejado DGB,smtp.gmail.com,"0 26 6 * * 1-6","11",true,2025-04-08 06:28:47.655
+24,Itens em aberto na contagem cíclica,smtp.gmail.com,"0 28 6 * * 1-5","24",true,2025-04-08 06:28:49.944
+34,Placas com Teste Funcional Superior a 24Hrs,smtp.gmail.com,"0 28 6 * * 1-5","34",true,2025-04-08 06:28:53.320
+43,Scrap na fase de aprovação,smtp.gmail.com,"0 28 6 * * 1-5","43",true,2025-04-08 06:28:56.618
+23,Pedidos Atrasados,smtp.gmail.com,"0 28 6 * * 1-6","23",true,2025-04-08 06:28:59.472
+31,Falta de Materia-prima por modelo,smtp.gmail.com,"0 00 4 * * 1-6","31",true,2025-04-08 04:31:52.175
+21,FUJI Consumo/Alimentação,smtp.gmail.com,"0 0/5 * * * 1-6","21",true,2025-04-08 07:55:16.492
+16,Exportar movimentacao moq,smtp.gmail.com,"0 0/5 * * * *","16",true,2025-04-08 07:55:21.905
+3,Read E-mail,smtp.gmail.com,"0 0/5 * * * *","3",true,2025-04-08 07:55:23.491
