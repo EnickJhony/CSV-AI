@@ -8,6 +8,12 @@ criar ambiente virtual para esse python
 python -m venv venv
 ```
 
+E para ativar basta executar o
+
+```
+.venv\Scripts\activate.bat
+```
+
 instalar pre-requisitos do arquivo requirements
 
 instalar ollama

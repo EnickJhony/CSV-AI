@@ -4,12 +4,12 @@ import json
 # URL do servidor do Ollama
 OLLAMA_URL = "http://localhost:11434/api/chat"
 
-def conversar_com_ollama(model: str, mensagem: str):
+def conversar_com_ollama(mensagem: str):
     """
     Envia uma mensagem para o Ollama e retorna a resposta completa após o streaming.
     """
     payload = {
-        "model": model,
+        "model": "gemma3:1b",
         "messages": [{"role": "user", "content": mensagem}]
     }
     
@@ -38,7 +38,7 @@ def conversar_com_ollama(model: str, mensagem: str):
         return f"Erro ao se comunicar com o Ollama: {e}"
 
 # Exemplo de uso
-modelo = "granite3.2:2b"
-mensagem = "Olá, como você está?"
-resposta = conversar_com_ollama(modelo, mensagem)
-print("Resposta do Ollama:", resposta)
+# modelo = "granite3.2:2b"
+# mensagem = "Olá, como você está?"
+# resposta = conversar_com_ollama(mensagem)
+# print("Resposta do Ollama:", resposta)
